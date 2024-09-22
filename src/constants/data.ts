@@ -86,7 +86,7 @@ const TEST_QUESION: ITestData[] = [
         img: null,
       },
     ],
-    image: "./public/assets/question-3.jpg",
+    image: "/public/assets/question-3.jpg",
   },
   {
     id: 4,
@@ -97,22 +97,22 @@ const TEST_QUESION: ITestData[] = [
       {
         answer_id: 1,
         text: "Power button icon",
-        img: "./public/assets/question-4/power-icon.jpg",
+        img: "/public/assets/question-4/power-icon.jpg",
       },
       {
         answer_id: 2,
         text: "Settings icon",
-        img: "./public/assets/question-4/setting-icon.jpg",
+        img: "/public/assets/question-4/setting-icon.jpg",
       },
       {
         answer_id: 3,
         text: "File Explorer icon",
-        img: "./public/assets/question-4/file-icon.jpg",
+        img: "/public/assets/question-4/file-icon.jpg",
       },
       {
         answer_id: 4,
         text: "All App icon",
-        img: "./public/assets/question-4/app-icon.jpg", 
+        img: "/public/assets/question-4/app-icon.jpg", 
       },
     ],
     image: null,
@@ -173,7 +173,7 @@ const TEST_QUESION: ITestData[] = [
         img: null,
       },
     ],
-    image: "./public/assets/question-6.jpg",
+    image: "/public/assets/question-6.jpg",
   },
   {
     id: 7,
@@ -184,22 +184,22 @@ const TEST_QUESION: ITestData[] = [
       {
         answer_id: 1,
         text: "Keyboard",
-        img: "./public/assets/question-8/keyboard.jpg",
+        img: "/public/assets/question-8/keyboard.jpg",
       },
       {
         answer_id: 2,
         text: "Headphone",
-        img: "./public/assets/question-8/headphones.png",
+        img: "/public/assets/question-8/headphones.png",
       },
       {
         answer_id: 3,
         text: "Webcam",
-        img: "./public/assets/question-8/camera.jpg",
+        img: "/public/assets/question-8/camera.jpg",
       },
       {
         answer_id: 4,
         text: "Mouse",
-        img: "./public/assets/question-8/mouse.jpg",
+        img: "/public/assets/question-8/mouse.jpg",
       },
     ],
     image: null,
@@ -389,22 +389,22 @@ const TEST_QUESION: ITestData[] = [
       {
         answer_id: 1,
         text: "User icon",
-        img: "./public/assets/question-14/user-icon.jpg",
+        img: "/public/assets/question-14/user-icon.jpg",
       },
       {
         answer_id: 2,
         text: "Windows icon",
-        img: "./public/assets/question-14/windows-icon.png",
+        img: "/public/assets/question-14/windows-icon.png",
       },
       {
         answer_id: 3,
         text: "Settings icon",
-        img: "./public/assets/question-14/setting-icon.jpg",
+        img: "/public/assets/question-14/setting-icon.jpg",
       },
       {
         answer_id: 4,
         text: "Power icon",
-        img: "./public/assets/question-14/power-icon.jpg",
+        img: "/public/assets/question-14/power-icon.jpg",
       },
     ],
     image: null,
@@ -415,7 +415,7 @@ const TEST_QUESION: ITestData[] = [
       "Click on the scroll bar. \n Nhấp chuột vào thanh cuộn (scroll bar).",
     click: true,
     answer: null,
-    image: "./public/assets/question-15.jpg",
+    image: "/public/assets/question-15.jpg",
   },
   {
     id: 16,
@@ -423,7 +423,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to close the open window? \n Nhấp chuột vào vị trí nào để đóng cửa sổ đang mở?",
     click: true,
     answer: null,
-    image: "./public/assets/question-16.jpg",
+    image: "/public/assets/question-16.jpg",
   },
   {
     id: 17,
@@ -431,7 +431,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to create a file in the selected folder? \n Nhấp chuột vào vị trí nào để tạo một tệp tin trong thư mục đang mở?",
     click: true,
     answer: null,
-    image: "./public/assets/question-17.jpg",
+    image: "/public/assets/question-17.jpg",
   },
   {
     id: 18,
@@ -439,7 +439,7 @@ const TEST_QUESION: ITestData[] = [
       "Click on a sub-folder to the folder My files. \n Nhấp chuột vào một thư mục con trong thư mục 'My files'.",
     click: true,
     answer: null,
-    image: "./public/assets/question-18.jpg",
+    image: "/public/assets/question-18.jpg",
   },
   {
     id: 19,
@@ -505,7 +505,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to open the folder Pictures? \n Nhấp chuột vào vị trí nào để mở thư mục Pictures?",
     click: true,
     answer: null,
-    image: "./public/assets/question-21.jpg",
+    image: "/public/assets/question-21.jpg",
   },
   {
     id: 22,
@@ -534,7 +534,7 @@ const TEST_QUESION: ITestData[] = [
         img: null,
       },
     ],
-    image: "./public/assets/question-22.jpg",
+    image: "/public/assets/question-22.jpg",
   },
   {
     id: 23,
@@ -571,7 +571,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to delete the selected folder? \n Nhấp chuột vào vị trí nào để xóa (delete) thư mục đã chọn?",
     click: true,
     answer: null,
-    image: "./public/assets/question-24.jpg",
+    image: "/public/assets/question-24.jpg",
   },
   {
     id: 25,
@@ -579,7 +579,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to sort the files and folders by their size? \n Nhấp chuột vào vị trí nào để sắp xếp các tệp tin và thư mục theo dung lượng (size) lưu trữ của chúng?",
     click: true,
     answer: null,
-    image: "./public/assets/question-25.jpg",
+    image: "/public/assets/question-25.jpg",
   },
   {
     id: 26,
@@ -587,7 +587,7 @@ const TEST_QUESION: ITestData[] = [
       "Click the icon where you can view information about the computer's processor. \n Nhấp chuột vào vị trí nào để hiển thị thông tin của bộ vi xử lý máy tính?",
     click: true,
     answer: null,
-    image: "./public/assets/question-26.jpg",
+    image: "/public/assets/question-26.jpg",
   },
   {
     id: 27,
@@ -641,7 +641,7 @@ const TEST_QUESION: ITestData[] = [
         img: null,
       },
     ],
-    image: "./public/assets/question-28.jpg",
+    image: "/public/assets/question-28.jpg",
   },
   {
     id: 29,
@@ -649,7 +649,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to uninstall an application? \n Nhấp chuột vào vị trí nào để mở cửa sổ mà chúng ta có thể gỡ cài đặt một ứng dụng?",
     click: true,
     answer: null,
-    image: "./public/assets/question-29.jpg",
+    image: "/public/assets/question-29.jpg",
   },
   {
     id: 30,
@@ -657,7 +657,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to install a new printer? \n Nhấp chuột vào vị trí nào để cài đặt một máy in mới?",
     click: true,
     answer: null,
-    image: "./public/assets/question-30.jpg",
+    image: "/public/assets/question-30.jpg",
   },
   {
     id: 31,
@@ -694,7 +694,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to zoom the image? \n Nhấp chuột vào vị trí nào để phóng to hình ảnh?",
     click: true,
     answer: null,
-    image: "./public/assets/question-32.jpg",
+    image: "/public/assets/question-32.jpg",
   },
   {
     id: 33,
@@ -731,7 +731,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to make the selected text underlined? \n Nhấp chuột vào vị trí nào để áp dụng kiểu chữ gạch chân cho cụm từ đã chọn?",
     click: true,
     answer: null,
-    image: "./public/assets/question-34.jpg",
+    image: "/public/assets/question-34.jpg",
   },
   {
     id: 35,
@@ -739,7 +739,7 @@ const TEST_QUESION: ITestData[] = [
       "Where should you click to save the document with a different name? \n Nhấp chuột vào vị trí nào để có thể lựa chọn lưu tệp tin với một tên khác?",
     click: true,
     answer: null,
-    image: "./public/assets/question-35.jpg",
+    image: "/public/assets/question-35.jpg",
   },
   {
     id: 36,
