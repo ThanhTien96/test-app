@@ -394,7 +394,7 @@ const TEST_QUESION: ITestData[] = [
       {
         answer_id: 2,
         text: "Windows icon",
-        img: "./assets/question-14/windows-icon.png",
+        img: "./assets/question-14/windows-icon.jpg",
       },
       {
         answer_id: 3,
